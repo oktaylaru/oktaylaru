@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_477836_2nd_app.test" name="x_477836_2nd_app.test">c543a23f2f381010af85bac62799b668</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-22 17:27:14</sys_created_on>
+        <sys_id>0d43a23f2f381010af85bac62799b66a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c543a23f2f381010af85bac62799b668</sys_name>
+        <sys_package display_value="2nd App" source="x_477836_2nd_app">9533623f2f381010af85bac62799b6d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="2nd App">9533623f2f381010af85bac62799b6d3</sys_scope>
+        <sys_update_name>sys_embedded_help_role_0d43a23f2f381010af85bac62799b66a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-22 17:27:14</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

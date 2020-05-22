@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>2nd App</name>
+        <required_roles>admin,x_477836_2nd_app.test</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-22 17:27:49</sys_created_on>
+        <sys_id>a563223b2f381010af85bac62799b6e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2nd App</sys_name>
+        <sys_package display_value="2nd App" source="x_477836_2nd_app">9533623f2f381010af85bac62799b6d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="2nd App">9533623f2f381010af85bac62799b6d3</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_a563223b2f381010af85bac62799b6e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-22 17:27:49</sys_updated_on>
+        <title>2nd App</title>
+    </sys_sg_applet_launcher>
+</record_update>

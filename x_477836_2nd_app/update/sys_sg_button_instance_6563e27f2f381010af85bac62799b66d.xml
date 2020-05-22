@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Button (my table)">ed63e27f2f381010af85bac62799b668</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>top</location>
+        <name>Edit (my table)</name>
+        <order/>
+        <parent>ad63e27f2f381010af85bac62799b651</parent>
+        <parent_table>sys_sg_form_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-22 17:27:50</sys_created_on>
+        <sys_id>6563e27f2f381010af85bac62799b66d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit (my table)</sys_name>
+        <sys_package display_value="2nd App" source="x_477836_2nd_app">9533623f2f381010af85bac62799b6d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="2nd App">9533623f2f381010af85bac62799b6d3</sys_scope>
+        <sys_update_name>sys_sg_button_instance_6563e27f2f381010af85bac62799b66d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-22 17:27:50</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=6563e27f2f381010af85bac62799b66d"/>
+</record_update>
